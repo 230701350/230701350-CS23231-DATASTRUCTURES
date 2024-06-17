@@ -2,7 +2,7 @@ NAME: Sudharshan Krishnaa L K
 REGISTER NO.:230701350
 
   EX-15: Implementation of Collision Resolution Techniques
-       (i) Closed  Addressing 
+       (ii) Closed  Addressing 
 
 
 #include <stdio.h>
