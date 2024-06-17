@@ -1,3 +1,7 @@
+NAME: Sudharshan Krishnaa L K 
+REGISTER NO.:230701350
+
+EX-7: Implementation of Queue using Linked list
 
 #include <stdio.h>
 #include<stdlib.h>
